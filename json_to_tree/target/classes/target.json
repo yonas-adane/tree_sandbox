@@ -1,6 +1,6 @@
 {
   "ppu": 0.00,
-  "batter": [],
+  "batter": [""],
   "toppings":
   [
     { "type": "" }

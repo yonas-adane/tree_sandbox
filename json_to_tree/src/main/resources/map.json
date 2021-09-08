@@ -1,20 +1,20 @@
 [
   {
     "id": "000001",
-    "sourcePath": "ppu",
+    "sourcePath": ["ppu"],
     "targetPath": "ppu",
     "transformFunction": ""
   },
   {
     "id": "000002",
-    "sourcePath": "batters/batter",
+    "sourcePath": ["batters/batter"],
     "targetPath": "batter",
-    "transformFunction": ""
+    "transformFunction": "copy"
   },
   {
     "id": "000003",
-    "sourcePath": "topping/type",
+    "sourcePath": ["topping/type"],
     "targetPath": "toppings",
-    "transformFunction": ""
+    "transformFunction": "toToppings"
   }
 ]
